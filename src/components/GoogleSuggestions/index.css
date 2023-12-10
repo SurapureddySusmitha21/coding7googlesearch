@@ -1,0 +1,42 @@
+/* Write your CSS here */
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+}
+.google-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+}
+.image-url {
+  height: 13vh;
+  width: 19vw;
+  margin-top: 70px;
+}
+.search-main-container {
+  box-shadow: 0px 4px 16px 0px;
+  height: 70vh;
+  width: 60vw;
+  padding-left: 20px;
+  margin-top: 40px;
+}
+.search-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  padding-top: 20px;
+}
+.search-image {
+  height: 20px;
+  width: 19px;
+  margin-right: 10px;
+}
+.search {
+  border-color: transparent;
+  cursor: pointer;
+  outline: none;
+}

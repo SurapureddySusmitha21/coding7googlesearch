@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.items-container {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+}
+.search-button {
+  background-color: transparent;
+  border-color: transparent;
+}
+.arrow {
+  height: 3vh;
+  padding-right: 20px;
+}
